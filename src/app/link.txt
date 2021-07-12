@@ -1,3 +1,0 @@
-https://github.com/gunthercox/chatterbot-corpus/blob/master/chatterbot_corpus/data/bengali/botprofile.yml
-
-https://towardsdatascience.com/chatbot-complete-pycharm-app-3517b64075f2
